@@ -58,4 +58,4 @@ Only 6.9% found it very easy — breaking in isn't as effortless as it looks on 
 
 I’d love to know:
 💬 What’s your favorite insight from this dashboard?
-📩 Want the .pbix file or to collaborate on your next dashboard? Just drop a message!
+📩 Want the .pbix file or to collaborate on your next dashboard? Just drop a message!  
