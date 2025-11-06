@@ -13,7 +13,7 @@ Ever wondered how happy data professionals really are with their salaries and wo
 
 Data Scientists top the salary chart, followed by Data Engineers and Architects.
 
-Students & Data Analysts earn the least compared to other roles.
+Database Developer & Data Analysts earn the least compared to other roles.
 
 📌 Where do most data professionals come from?
 
